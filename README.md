@@ -38,3 +38,14 @@ This project is a part of a course work at Dalhousie University and it is develo
 - During the entire development cycle, gitflow was maintained by creating master, develop and other feature branches. Based on the change in branches, workflow was determined, which can be observed in [.group.yml](https://github.com/karankharecha/GroupFormationTool/blob/master/.group.yml) file.
 - Test cases are executed by the runner when the code is changed in master and develop branch.
 - Environments and databases: Dev, Test and Production.
+
+### **Logging and Exception handling**
+- This project contains logs of all the major events that were printed on Heroku's console
+
+### **Clean Code**
+- Consistent indentation
+- Language (standards) idioms
+- Preferred polymorphism to conditions
+- No negative conditionals
+- No comment noise
+- Resource clean up after usage
