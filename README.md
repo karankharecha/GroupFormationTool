@@ -2,6 +2,7 @@
 
 This project is a part of a course work at Dalhousie University and it is developed in a way that new functionalities can be added easily along with modifying existing functionalities without introducing new errors and bugs.<br>
 
+**Course Instructor:** [Robert Hawkey](https://www.linkedin.com/in/roberthawkey/)<br>
 **Course Work:** Advanced Topics in Software Development<br>
 **Programming Language:** Java<br>
 **Framework:** Spring<br>
